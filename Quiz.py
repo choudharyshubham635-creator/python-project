@@ -5,6 +5,6 @@ age = str.number_input('Enter ur Age....')
 if age>=18:
   str.write("You are eligible for licence...")
   str.balloons()
-  str.snow()
+ # str.snow()
 else:
   str.write('You are not eligible...')
